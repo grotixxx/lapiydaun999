@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
 # ================== НАЛАШТУВАННЯ ==================
-TOKEN = "8425896258:AAEU2b8_fMdyfkLMzTZlWopSBEA30LS1RzM"
+TOKEN = "8348906081:AAFdGlSs21FDj757b0TfHM81GV5h_V9Ffps"
 
 # ✅ ОДНА БД (абсолютний шлях)
 DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bot.db")

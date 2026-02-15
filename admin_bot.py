@@ -10,10 +10,10 @@ from aiogram.fsm.context import FSMContext
 from aiogram.utils.keyboard import InlineKeyboardBuilder, ReplyKeyboardBuilder
 
 # ================== НАЛАШТУВАННЯ ==================
-ADMIN_BOT_TOKEN = "8580903909:AAGLYCQSoP-Pm9EZoShc6jLcQDG0qlp8ZsI"
-CLIENT_BOT_TOKEN = "8425896258:AAEU2b8_fMdyfkLMzTZlWopSBEA30LS1RzM"
+ADMIN_BOT_TOKEN = "8572013690:AAHr_0H494MCsKhXy9GNNoh89ezmWk4C_PE"
+CLIENT_BOT_TOKEN = "8348906081:AAFdGlSs21FDj757b0TfHM81GV5h_V9Ffps"
 
-ADMIN_IDS = {464328264, 609050208, 800055308}
+ADMIN_IDS = {800055308}
 
 DB_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bot.db")
 
